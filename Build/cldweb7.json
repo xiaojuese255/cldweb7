@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "青州车辆段教育培训",
+"dataUrl": "cldweb7.data.unityweb",
+"wasmCodeUrl": "cldweb7.wasm.code.unityweb",
+"wasmFrameworkUrl": "cldweb7.wasm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
